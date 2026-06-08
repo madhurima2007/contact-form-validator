@@ -11,6 +11,9 @@ A modern responsive contact form built using:
 The project performs client-side validation using JavaScript and Regex while providing user-friendly feedback.
 
 ---
+## Preview
+<img width="1909" height="897" alt="Screenshot 2026-06-08 121955" src="https://github.com/user-attachments/assets/e7bb7846-1ef5-4f1e-aca4-29e39346b645" />
+
 
 ## Features
 
